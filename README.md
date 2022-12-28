@@ -1,7 +1,7 @@
-# Wings Cloud Service
+# 🚀🚀🚀 RBAC Admin Service
 
-✨ 基于 Nestjs + MongoDB 构建的高效、可扩展的企业级微服务应用程序，支持高并发、多线程、NoSQL
+中后台权限管理系统 - 单体服务端
 
-📌 源码: [wingscloud/wings-cloud-service](https://github.com/wingscloud/wings-cloud-service)
+源码: [wingscloud/rbac-admin-service](https://github.com/wingscloud/rbac-admin-service)
 
-📘 使用文档: [https://wings-cloud-docs.netlify.app](https://wings-cloud-docs.netlify.app)
+使用文档: [https://wings-cloud-docs.netlify.app](https://wings-cloud-docs.netlify.app)
