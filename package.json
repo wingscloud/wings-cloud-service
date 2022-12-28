@@ -1,13 +1,13 @@
 {
-  "name": "wings-cloud-service",
+  "name": "rbac-admin-service",
   "version": "0.0.1",
-  "description": "基于 Nestjs + MongoDB 构建的高效、可扩展的企业级微服务应用程序，支持高并发、多线程、NoSQL",
+  "description": "中后台权限管理系统 - 单体服务端",
   "author": "Kaivan Wong",
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wingscloud/wings-cloud-service.git"
+    "url": "https://github.com/wingscloud/rbac-admin-service.git"
   },
   "scripts": {
     "prebuild": "rimraf dist",
