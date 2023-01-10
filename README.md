@@ -31,7 +31,7 @@
 
 同时 [Wings Cloud](https://github.com/wingscloud) 提供了常规的开发模板：
 
-- [🔥 @wingscloud/template-admin 【前端模板】中后台权限管理系统](https://github.com/wingscloud/template-admin)
+- [🔥 @wingscloud/template-admin 【前端模板】后台管理系统](https://github.com/wingscloud/template-admin)
 
 - [🔥 @wingscloud/template-website 【前端模板】门户网站](https://github.com/wingscloud/template-website)
 
